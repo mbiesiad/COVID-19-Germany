@@ -41,6 +41,6 @@ Z sumieniem sporządzam i prowadzę listę przypadków zakażeń w Niemczech. W 
 
 Po prostu wyślij mi e-mail na adres: post@coronavirus.jetzt
 
-*Autor: @[iceweasel1](https://github.com/iceweasel1/COVID-19-Germany)
+*Autor: @[iceweasel1](https://github.com/iceweasel1/COVID-19-Germany)*
 
-*Tłumaczenie: @[mbiesiad](https://github.com/mbiesiad) 29-3-2020
+*Tłumaczenie: @[mbiesiad](https://github.com/mbiesiad) 29-3-2020*
