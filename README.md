@@ -25,7 +25,7 @@ Dla 6 przypadków z Bawarii (2, 3, 4, 14, 15, 16) jak dotąd nie mogłem znaleź
 
 Z reguły, jako ze źródła korzystam wyłącznie z Ministerstwa Zdrowia danego kraju związkowego. Jednak zdarza się wielokrotnie, że władze federalne potrzebują kilku godzin, kilku dni, aż opublikują informacje. Dlatego zdarza się, że powiat jest wskazany, jako źródło. W rzadkich przypadkach jako źródło podaje się również szpital lub uniwersytet, ponieważ należy je również sklasyfikować jako źródła godne szacunku.
 
-<b>Uwaga - Strefa czasowa/b>
+<b>Uwaga - Strefa czasowa</b>
 
 Wskazana data w każdym przypadku odnosi się do czasu w Niemczech. To jest UTC+1. 
 
