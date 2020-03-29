@@ -1,40 +1,46 @@
 # COVID-19-Germany
-All officially confirmed cases of infection in Germany. Listed by case number, date, federal state, latitude, longitude, source.
+Wszystkie oficjalnie potwierdzone przypadki infekcji w Niemczech. Wymienione według numeru przypadku, daty, stanu federalnego, szerokości i długości geograficznej, źródła.
 
-<b>Field description</b>
+# Tabela: [tutaj](https://github.com/mbiesiad/COVID-19-Germany/blob/pl/germany_with_source.csv)
 
-- No: The sequential numbering of the case numbers
-- Date: MM/DD/YYYY (German time, UTC+1)
-- Federated state: Where the case was confirmed
-- District: In which district the case occurred in the respective federal state
-- Latitude: The latitude of the district
-- Longitude: The longitude of the district
-- Source: The competent authority that verified the case
+<b>Opis pola</b>
 
-<b>Note - General</b>
+- No: Sekwencyjna numeracja liczby przypadków
+- Date: MM/DD/YYYY (czas w Niemczech, UTC+1)
+- Federated state: Gdzie przypadek został potwierdzony
+- District: W którym powiecie przypadek miał miejsce, w odpowiednim stanie federalnym
+- Latitude: Szerokość geograficzna powiatu
+- Longitude: Długość geograficzna powiatu
+- Source: Właściwy organ, który zweryfikował sprawę
 
-For a simple overview of the course in Germany, the given values (case number, date, federal state, county and coordinates of the county are sufficient. In many cases, additional information is available. This includes the exact city of the infected person, gender, age and an indication of how the case is related to another. However, this information is not always published by the authorities. Therefore I do not put this online either.
+<b>Uwaga - ogólne</b>
 
-<b>Note - N/A display</b>
+Dla prostego przeglądu przebiegu w Niemczech podane wartości (numer sprawy, data, stan federalny, powiat i współrzędne powiatu są wystarczające). W wielu przypadkach dostępne są dodatkowe informacje. Obejmuje to dokładne miasto zakażonej osoby, płeć, wiek i wskazanie, w jaki sposób sprawa jest powiązana z inną sprawą, jednak informacje te nie zawsze są publikowane przez władze, dlatego też nie umieszczam tego w Internecie.
 
-For the 6 cases from Bavaria (2, 3, 4, 14, 15, 16) I could not find a location so far. The Bavarian authorities had not given any more precise information so far. These 6 cases are the only cases so far without further information. All others have the exact data.
+<b>Uwaga - wyświetlenie N/A</b>
 
-<b>Note - Sources</b>
+Dla 6 przypadków z Bawarii (2, 3, 4, 14, 15, 16) jak dotąd nie mogłem znaleźć lokalizacji. Władze Bawarii nie podały jak dotąd dokładniejszych informacji. Te 6 przypadków są, jak na razie, jedynymi przypadkami bez dalszych informacji. Wszystkie pozostałe mają dokładne dane.
 
-As a rule, I exclusively use the health ministry of the respective federal state as a source. However, it happens again and again that the federal authorities need several hours, several days for it, until they publish an information. Therefore it happens from time to time that a county is indicated as source. In rare cases a hospital or a university is also indicated as a source, since these are to be likewise classified as respectable sources.
+<b>Uwaga - Źródła</b>
 
-<b>Note - Time zone</b>
+Z reguły, jako ze źródła korzystam wyłącznie z Ministerstwa Zdrowia danego kraju związkowego. Jednak zdarza się wielokrotnie, że władze federalne potrzebują kilku godzin, kilku dni, aż opublikują informacje. Dlatego zdarza się, że powiat jest wskazany, jako źródło. W rzadkich przypadkach jako źródło podaje się również szpital lub uniwersytet, ponieważ należy je również sklasyfikować jako źródła godne szacunku.
 
-The indicated date in each case refers to the German time. This is UTC+1. 
+<b>Uwaga - Strefa czasowa/b>
 
-<b>Note - Frequency of updates</b>
+Wskazana data w każdym przypadku odnosi się do czasu w Niemczech. To jest UTC+1. 
 
-The data is updated several times a day. These vary due to the dynamic conditions.
+<b>Uwaga - Częstotliwość aktualizacji</b>
 
-<b>Disclaimer</b>
+Dane są aktualizowane kilka razy dziennie. Różnią się one ze względu na dynamiczne warunki.
 
-I compile and maintain the list of German infection cases with the best of conscience. I use all open channels available to me for this purpose. The listing and compilation is truthful. A manipulation on my part does not take place. I only use official authorities (federal state, county, city) as sources (as mentioned above). I trust in the correctness of the authorities that publish the information. I cannot guarantee a 100 percent completeness and correctness of the data. I expressly reject any claims against me due to incorrect data.
+<b>Wyłączenie odpowiedzialności</b>
 
-<b>Question, suggestions, criticism?</b>
+Z sumieniem sporządzam i prowadzę listę przypadków zakażeń w Niemczech. W tym celu korzystam ze wszystkich dostępnych kanałów. Lista i kompilacja są zgodne z prawdą. Manipulacja z mojej strony nie ma miejsca. Używam wyłącznie źródeł urzędowych (stan federalny, powiat, miasto) (jak wspomniano powyżej). Ufam poprawności organów publikujących informacje. Nie mogę zagwarantować 100-procentowej kompletności i poprawności danych. Wyraźnie odrzucam wszelkie roszczenia wobec mnie z powodu nieprawidłowych danych.
 
-Just send me an e-mail to post@coronavirus.jetzt
+<b>Pytanie, sugestie, krytyka?</b>
+
+Po prostu wyślij mi e-mail na adres: post@coronavirus.jetzt
+
+*Autor: @[iceweasel1](https://github.com/iceweasel1/COVID-19-Germany)
+
+*Tłumaczenie: @[mbiesiad](https://github.com/mbiesiad) 29-3-2020
