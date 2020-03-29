@@ -38,3 +38,6 @@ I compile and maintain the list of German infection cases with the best of consc
 <b>Question, suggestions, criticism?</b>
 
 Just send me an e-mail to post@coronavirus.jetzt
+
+--------------------------
+Polish translation: [here](https://github.com/mbiesiad/COVID-19-Germany/tree/pl)
